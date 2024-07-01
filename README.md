@@ -7,7 +7,7 @@
 <br/>
 
 
-I am a passionate and dedicated MERN stack developer with a strong foundation in full-stack development and a knack for problem-solving. 🛠️. 
+I am a passionate and dedicated MERN stack developer with a strong foundation in full-stack development and a knack for problem-solving. 
 
 ### 🧐 More About Me:
 
@@ -30,6 +30,7 @@ I am a passionate and dedicated MERN stack developer with a strong foundation in
 <br>
 
 ### 🔨 Languages and Tools:
+<div align="center>
 <a href="https://cplusplus.com/" target="_blank">   <img align="left" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/cecdeff1-a6fe-490c-8119-76f574caa461" height="42px" alt=" c++"  style='margin-right:1000px' /> </a>
 &nbsp; &nbsp;
 <a href="https://www.cprogramming.com/" target="_blank">   <img align="left"  src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/c6f153c6-8f2d-4ab9-910e-58af8092761c" height="42px" alt=" logo"  /></a> 
@@ -51,7 +52,7 @@ I am a passionate and dedicated MERN stack developer with a strong foundation in
 <a href="https://www.postman.com/" target="_blank"> <img align="center" alt="React" height ="42px" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/f329c11c-abd6-4f7c-96bd-cf952998fcae"></a>
 &nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="center" alt="git" height='42px'/> </a>
-&nbsp;&nbsp;
+</div>
 
 
 <br/>
@@ -63,7 +64,7 @@ I am a passionate and dedicated MERN stack developer with a strong foundation in
 
 ### 🛠️ My Projects
 
-<a href="https://ecommerce-website-iqbj.onrender.com/" target="_blank"> <img  alt="Ecommerce-website" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/dedf07d4-7783-4d62-9959-55c8bd18dbc0" align="left" height="700" width="1000px"> </a>
+<a href="https://ecommerce-website-iqbj.onrender.com/" target="_blank"> <img  alt="Ecommerce-website" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/dedf07d4-7783-4d62-9959-55c8bd18dbc0" align="left"> </a>
 
 <a href="https://flick-ticket.onrender.com/" target="_blank"> <img alt="Flick Ticket" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/097309e1-8c52-419b-a9bb-0e442e89214f"   align="center"> </a>
 <a href="https://blogger-unite.up.railway.app/" target="_blank"> <img alt="readmeicons" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/c08f22c9-a665-4f65-be04-2f34ef84ac4c"  align="center"> </a>
@@ -73,9 +74,11 @@ I am a passionate and dedicated MERN stack developer with a strong foundation in
 
 ### 🔥 Coding Profile
 
-&nbsp;&nbsp; <a href='https://leetcode.com/u/prasugupta09/'><img align='left' alt="twitter" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/0e55c5dc-1160-4abf-892b-0c5762b7b1ab" height='30'/></a>
- &nbsp;&nbsp; <a href='https://www.codechef.com/users/prasugupta9'><img align='left' alt="twitter" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/24a84593-24a4-42a0-a174-73138d9e1b39" height='30'/></a>
+<p align="center>
 
+ <a href='https://leetcode.com/u/prasugupta09/'><img align='left' alt="twitter" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/0e55c5dc-1160-4abf-892b-0c5762b7b1ab" height='30'/></a>
+ <a href='https://www.codechef.com/users/prasugupta9'><img align='left' alt="twitter" src="https://github.com/Prasugupta21/Prasugupta21/assets/101421981/24a84593-24a4-42a0-a174-73138d9e1b39" height='30'/></a>
+</p>
 <br/>
 <br/>
 
