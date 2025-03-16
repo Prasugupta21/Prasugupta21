@@ -6,7 +6,7 @@
 📈 Passionate about Software Development & Scalable Systems  
 
 ## 💼 Experience  
-- **SDE Intern**  at **TechO** **(01/2025 - Present)**  
+- **SDE Intern**  at **TechO** **(Jan-March 2025)**  
   - Enhanced **Carousel functionality** with smooth animations and a dynamic, shining border transition,
 significantly boosting user engagement on the Shopify platform..  
   - Developed custom toggling functionality for collapsible sections using **Vanilla JavaScript and CSS**,
