@@ -1,11 +1,18 @@
 # 👋 Hi, I'm Prasu Gupta
 
 ## 🚀 About Me  
-🎓 B.Tech CSE Student at IIIT Sonepat (Graduating in 2025)  
-💻 Frontend Developer | Problem-Solving Enthusiast  
-📈 Passionate about Software Development & Scalable Systems  
+I'm Prasu, a developer with a passion for problem-solving and building impactful solutions. Currently working as an SDE at ScoreMe Solutions Pvt. Ltd. I am working with Reactjs, Typescript , CMS.I have also worked as an SDE Intern at TechO, where I focus on developing scalable and efficient software solutions.
+
 
 ## 💼 Experience  
+- **SDE** at **ScoreMe Solutions**  **(March-Present)**
+
+  - Collaborated within a cross-functional React development team to implement and maintain
+ robust form-handling solutions using react-hook-form.
+  - Used Redux architecture with Strapi CMS integration featuring global state management.
+  - Utilized Bitbucket for version control, adhered to team coding standards, and participated in peer
+ code reviews to maintain code quality.
+  - Working with CMS integration with React & TypeScript,used logic for dynamic UI rendering.
 - **SDE Intern**  at **TechO** **(Jan-March 2025)**  
   - Enhanced **Carousel functionality** with smooth animations and a dynamic, shining border transition,
 significantly boosting user engagement on the Shopify platform..  
@@ -16,9 +23,9 @@ coordination.
 
 ## 🛠️ Tech Stack  
 - **Languages:** C++, JavaScript, Java, C  
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS,Bootstrap  
 - **Backend:** Node.js, Express.js, MongoDB  
-- **Tools & Platforms:** Git,Postman, Firebase
+- **Tools & Platforms:** Git,Postman, Firebase, Strapi CMS
 
 
 
